@@ -1,1 +1,5 @@
-dsdhcm,sx,
+main()
+{
+printf("hello alekhya");
+}
+
